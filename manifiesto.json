@@ -1,0 +1,2018 @@
+{
+  "formato": 1,
+  "nombre": "Horizontes",
+  "version": "2026.10.09-1526",
+  "fecha": "2026-10-09T21:26:14.968Z",
+  "minecraft": "1.21.11",
+  "fabric": "0.19.3",
+  "notas": "Primera versión del paquete: los 55 mods que ya usabas en la 1.21.11, con Complementary Reimagined y tu configuración de Distant Horizons, Sodium y compañía.",
+  "servidor": null,
+  "archivos": [
+    {
+      "ruta": "config/autohud.json5",
+      "sha1": "acd2acde91c1e82ada7e70663ef89ea65177a290",
+      "tamano": 4230,
+      "conservar": true,
+      "url": "archivos/config/autohud.json5"
+    },
+    {
+      "ruta": "config/biolith/general.json",
+      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e",
+      "tamano": 172,
+      "conservar": true,
+      "url": "archivos/config/biolith/general.json"
+    },
+    {
+      "ruta": "config/c2me.toml",
+      "sha1": "08c8afb024285083c7c55dfc7bb701185c4e08f9",
+      "tamano": 10251,
+      "conservar": true,
+      "url": "archivos/config/c2me.toml"
+    },
+    {
+      "ruta": "config/cameraoverhaul.toml",
+      "sha1": "c285f68889a898a2d927e9ecffa295c6d21a64f8",
+      "tamano": 8348,
+      "conservar": true,
+      "url": "archivos/config/cameraoverhaul.toml"
+    },
+    {
+      "ruta": "config/chunky/config.json",
+      "sha1": "a8157f2e1e649b891aaccb8ec83d38c84429c82a",
+      "tamano": 146,
+      "conservar": true,
+      "url": "archivos/config/chunky/config.json"
+    },
+    {
+      "ruta": "config/creativecore-client.json",
+      "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7",
+      "tamano": 23,
+      "conservar": true,
+      "url": "archivos/config/creativecore-client.json"
+    },
+    {
+      "ruta": "config/creativecore.json",
+      "sha1": "b97078641402978a24ffe8af190038943b99438a",
+      "tamano": 274,
+      "conservar": true,
+      "url": "archivos/config/creativecore.json"
+    },
+    {
+      "ruta": "config/cristellib/auto_config_settings.json5",
+      "sha1": "699c4e67d648a6d1b9dd9267e4123068516ea306",
+      "tamano": 895,
+      "conservar": true,
+      "url": "archivos/config/cristellib/auto_config_settings.json5"
+    },
+    {
+      "ruta": "config/cristellib/built_in_packs.json5",
+      "sha1": "9cbd8a2b1443834b050d62e30412ea95d2672a56",
+      "tamano": 373,
+      "conservar": true,
+      "url": "archivos/config/cristellib/built_in_packs.json5"
+    },
+    {
+      "ruta": "config/cristellib/explorify/structure_placement_config.json5",
+      "sha1": "d0d39036b4efbd3eaf37e74df58f586873be13ed",
+      "tamano": 1382,
+      "conservar": true,
+      "url": "archivos/config/cristellib/explorify/structure_placement_config.json5"
+    },
+    {
+      "ruta": "config/cristellib/explorify/structure_toggle_config.json5",
+      "sha1": "41459402d35785e43b4fdc9985bf527936340f5f",
+      "tamano": 902,
+      "conservar": true,
+      "url": "archivos/config/cristellib/explorify/structure_toggle_config.json5"
+    },
+    {
+      "ruta": "config/cristellib/terrestria-common/structure_placement_config.json5",
+      "sha1": "f9ddbae51f24c9d028ed4789783954c6bcf75a59",
+      "tamano": 264,
+      "conservar": true,
+      "url": "archivos/config/cristellib/terrestria-common/structure_placement_config.json5"
+    },
+    {
+      "ruta": "config/cristellib/terrestria-common/structure_toggle_config.json5",
+      "sha1": "a831bdb691a22423c1ac4f48cb0ce7b6a024552c",
+      "tamano": 199,
+      "conservar": true,
+      "url": "archivos/config/cristellib/terrestria-common/structure_toggle_config.json5"
+    },
+    {
+      "ruta": "config/DistantHorizons.toml",
+      "sha1": "85d0d6af57ae0ba06f3d5775ffe6da1a85dfad9e",
+      "tamano": 37021,
+      "conservar": true,
+      "url": "archivos/config/DistantHorizons.toml"
+    },
+    {
+      "ruta": "config/entity_model_features.json",
+      "sha1": "72726f3da593f3f741eb1ecdbe5c9d744cbbd675",
+      "tamano": 1245,
+      "conservar": true,
+      "url": "archivos/config/entity_model_features.json"
+    },
+    {
+      "ruta": "config/entity_texture_features.json",
+      "sha1": "0c6f24de039524572d381135891103ff4f3c4930",
+      "tamano": 1421,
+      "conservar": true,
+      "url": "archivos/config/entity_texture_features.json"
+    },
+    {
+      "ruta": "config/entityculling.json",
+      "sha1": "50e71bc86277ff33ee8c96204219625187fc8143",
+      "tamano": 2227,
+      "conservar": true,
+      "url": "archivos/config/entityculling.json"
+    },
+    {
+      "ruta": "config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "tamano": 28,
+      "conservar": true,
+      "url": "archivos/config/etf_warnings.json"
+    },
+    {
+      "ruta": "config/explorerscompass.json",
+      "sha1": "0a08c808ffb10939a0b92629f6070282f2c7034c",
+      "tamano": 2829,
+      "conservar": true,
+      "url": "archivos/config/explorerscompass.json"
+    },
+    {
+      "ruta": "config/fabric/indigo-renderer.properties",
+      "sha1": "5d744fe5a584f2e1a9b3d49e6e1de0a2c5ad004f",
+      "tamano": 290,
+      "conservar": true,
+      "url": "archivos/config/fabric/indigo-renderer.properties"
+    },
+    {
+      "ruta": "config/forgeconfigapiport.toml",
+      "sha1": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451",
+      "tamano": 523,
+      "conservar": true,
+      "url": "archivos/config/forgeconfigapiport.toml"
+    },
+    {
+      "ruta": "config/frozenlib.json5",
+      "sha1": "c7ea3675302c015d0e9f1ef158431df2f41c15ec",
+      "tamano": 468,
+      "conservar": true,
+      "url": "archivos/config/frozenlib.json5"
+    },
+    {
+      "ruta": "config/fzzy_config/keybinds.toml",
+      "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1",
+      "tamano": 6403,
+      "conservar": true,
+      "url": "archivos/config/fzzy_config/keybinds.toml"
+    },
+    {
+      "ruta": "config/graves.json",
+      "sha1": "facd3c8a67314f99c795167d3c2264ed2d5a131d",
+      "tamano": 2335,
+      "conservar": true,
+      "url": "archivos/config/graves.json"
+    },
+    {
+      "ruta": "config/immediatelyfast.json",
+      "sha1": "ae7b0e4e4ddeab6fe71db334b0a2c0ebb5c56472",
+      "tamano": 1023,
+      "conservar": true,
+      "url": "archivos/config/immediatelyfast.json"
+    },
+    {
+      "ruta": "config/indium-renderer.properties",
+      "sha1": "c6b85bc5b99ec69d0171de5f9c33cc6e5c3d7a92",
+      "tamano": 115,
+      "conservar": true,
+      "url": "archivos/config/indium-renderer.properties"
+    },
+    {
+      "ruta": "config/inventoryhud.json",
+      "sha1": "f5c4f4ac0d3bcb71e24eb6c775f832ed7b590b8d",
+      "tamano": 1689,
+      "conservar": true,
+      "url": "archivos/config/inventoryhud.json"
+    },
+    {
+      "ruta": "config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "tamano": 31,
+      "conservar": true,
+      "url": "archivos/config/iris-excluded.json"
+    },
+    {
+      "ruta": "config/iris.properties",
+      "sha1": "b1f0344694720ee7539a17b47a49d17c6b7b8f43",
+      "tamano": 312,
+      "conservar": true,
+      "url": "archivos/config/iris.properties"
+    },
+    {
+      "ruta": "config/jei-server.properties",
+      "sha1": "bf2a6e3bf18402806bd5abfea3b7a2b7eb9ccc7c",
+      "tamano": 374,
+      "conservar": true,
+      "url": "archivos/config/jei-server.properties"
+    },
+    {
+      "ruta": "config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "tamano": 19,
+      "conservar": true,
+      "url": "archivos/config/jei/blacklist.json"
+    },
+    {
+      "ruta": "config/jei/ingredient-list-mod-sort-order.ini",
+      "sha1": "02efc77620d2ea7e263d7fa86250757cb7822057",
+      "tamano": 156,
+      "conservar": true,
+      "url": "archivos/config/jei/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "ruta": "config/jei/ingredient-list-type-sort-order.ini",
+      "sha1": "a2d1f22ee9a3aa27f3d25bb93c4c5d5cd5580e21",
+      "tamano": 86,
+      "conservar": true,
+      "url": "archivos/config/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "ruta": "config/jei/jei-client.ini",
+      "sha1": "367e9d4dd906c2848fa008797bf9a07fd14f3bd3",
+      "tamano": 12979,
+      "conservar": true,
+      "url": "archivos/config/jei/jei-client.ini"
+    },
+    {
+      "ruta": "config/jei/jei-colors.ini",
+      "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+      "tamano": 1362,
+      "conservar": true,
+      "url": "archivos/config/jei/jei-colors.ini"
+    },
+    {
+      "ruta": "config/jei/jei-debug.ini",
+      "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c",
+      "tamano": 939,
+      "conservar": true,
+      "url": "archivos/config/jei/jei-debug.ini"
+    },
+    {
+      "ruta": "config/jei/jei-mod-id-format.ini",
+      "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb",
+      "tamano": 489,
+      "conservar": true,
+      "url": "archivos/config/jei/jei-mod-id-format.ini"
+    },
+    {
+      "ruta": "config/jei/recipe-category-sort-order.ini",
+      "sha1": "b27008f26329505ca08ae6d3177f567efc18fbe1",
+      "tamano": 323,
+      "conservar": true,
+      "url": "archivos/config/jei/recipe-category-sort-order.ini"
+    },
+    {
+      "ruta": "config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "tamano": 267,
+      "conservar": true,
+      "url": "archivos/config/lithium.properties"
+    },
+    {
+      "ruta": "config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+      "tamano": 37,
+      "conservar": true,
+      "url": "archivos/config/midnightlib.json"
+    },
+    {
+      "ruta": "config/modmenu.json",
+      "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "tamano": 840,
+      "conservar": true,
+      "url": "archivos/config/modmenu.json"
+    },
+    {
+      "ruta": "config/naturescompass.json",
+      "sha1": "1e56c5d53fd3002b48f91347143b2b1bbae65eb4",
+      "tamano": 2865,
+      "conservar": true,
+      "url": "archivos/config/naturescompass.json"
+    },
+    {
+      "ruta": "config/nvidium-config.json",
+      "sha1": "53310aef0b03372f787999f3e9074c5c25d88ad0",
+      "tamano": 246,
+      "conservar": true,
+      "url": "archivos/config/nvidium-config.json"
+    },
+    {
+      "ruta": "config/ok_zoomer/config.json5",
+      "sha1": "fc22b343e8bcd4936ce2fc944f42da5d98a42ab0",
+      "tamano": 6729,
+      "conservar": true,
+      "url": "archivos/config/ok_zoomer/config.json5"
+    },
+    {
+      "ruta": "config/particlerain/config.json",
+      "sha1": "5e8cf7d68cbb012e7f348e6a3055360943e9d947",
+      "tamano": 1151,
+      "conservar": true,
+      "url": "archivos/config/particlerain/config.json"
+    },
+    {
+      "ruta": "config/particlerain/particles.json",
+      "sha1": "9bde4c245d486e74fbc96008e4d286c8385e6fc0",
+      "tamano": 286,
+      "conservar": true,
+      "url": "archivos/config/particlerain/particles.json"
+    },
+    {
+      "ruta": "config/particular-common.toml",
+      "sha1": "99f5bcedd31b1ed4c2082541b945b65bca534a9a",
+      "tamano": 3744,
+      "conservar": true,
+      "url": "archivos/config/particular-common.toml"
+    },
+    {
+      "ruta": "config/presencefootsteps/updater.json",
+      "sha1": "75c10c3afddf1b1665036da06cd9c74d2ae84007",
+      "tamano": 68,
+      "conservar": true,
+      "url": "archivos/config/presencefootsteps/updater.json"
+    },
+    {
+      "ruta": "config/presencefootsteps/userconfig.json5",
+      "sha1": "64ad9d0904f4ca9a90593fdc91e5ff6517fbb268",
+      "tamano": 3342,
+      "conservar": true,
+      "url": "archivos/config/presencefootsteps/userconfig.json5"
+    },
+    {
+      "ruta": "config/resonance/client.toml",
+      "sha1": "b858732268759b3f77e2ff06ced5343cdf099caf",
+      "tamano": 1398,
+      "conservar": true,
+      "url": "archivos/config/resonance/client.toml"
+    },
+    {
+      "ruta": "config/roadweaver/presets/aged_stone.json",
+      "sha1": "fe6e2bb7d749b27a9de242c030a22262b6b8423a",
+      "tamano": 345,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/aged_stone.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/end_endstone_road.json",
+      "sha1": "91e68f5e39d51bd22b2f8fd6191a43631ebfe84a",
+      "tamano": 334,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/end_endstone_road.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/mud_road.json",
+      "sha1": "6477762855238bcbdd39dd2587ddd74da20a98a4",
+      "tamano": 251,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/mud_road.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_badlands.json",
+      "sha1": "680d63d8ee22eec78324a01aba66de14e8a68a92",
+      "tamano": 299,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_badlands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_bamboo_jungle.json",
+      "sha1": "6693fae045af87fa963a44016a59514ef47e1e69",
+      "tamano": 322,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_bamboo_jungle.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_beach.json",
+      "sha1": "51348e56aa871b3de82aa5adf49d03fd410df3e4",
+      "tamano": 272,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_beach.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_birch_forest.json",
+      "sha1": "c42d700e5170056a7dcde4bd4af864ec7222fe46",
+      "tamano": 290,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_birch_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_cherry_grove.json",
+      "sha1": "f02eb46873a338235b292e7506042ea51231a19a",
+      "tamano": 294,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_cherry_grove.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_dark_forest.json",
+      "sha1": "ff94e69bd37f8391a45089e628ce20551e9d1a21",
+      "tamano": 293,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_dark_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_desert.json",
+      "sha1": "e0c2c0efd12b85fbb40c25c9325f62cc6177a0b1",
+      "tamano": 348,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_desert.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_eroded_badlands.json",
+      "sha1": "5a9d2e04f51952e5576767a14562fba6c5886a18",
+      "tamano": 310,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_eroded_badlands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_flower_forest.json",
+      "sha1": "abca6b868e62af3bd7811816c67722dd7116f072",
+      "tamano": 294,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_flower_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_forest.json",
+      "sha1": "7a751a049746f983e81856f72b604f4675fc7643",
+      "tamano": 281,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_frozen_peaks.json",
+      "sha1": "b36a0651b10b5197dac53b4268353e82f6db914a",
+      "tamano": 289,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_frozen_peaks.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_frozen_river.json",
+      "sha1": "8d9abd96b9fd87cac99bce37051952fd411a0902",
+      "tamano": 290,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_frozen_river.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_grove.json",
+      "sha1": "85619a19b9b0f55f08901253d10bc035912ab70c",
+      "tamano": 281,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_grove.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_ice_spikes.json",
+      "sha1": "cc789e975751134b75a2f8eed517461a54142a2f",
+      "tamano": 289,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_ice_spikes.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_jagged_peaks.json",
+      "sha1": "0965c10e7d97af0aa999d41a8d172bb47614367e",
+      "tamano": 289,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_jagged_peaks.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_jungle.json",
+      "sha1": "99658f2c7bc9dc099291d4929cf48854abf1860c",
+      "tamano": 276,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_jungle.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_mangrove_swamp.json",
+      "sha1": "483d4857ab4b5d4700b82b4dbdbd86dcd48e1140",
+      "tamano": 339,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_mangrove_swamp.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_meadow.json",
+      "sha1": "0347a2f5f161124acd1e915cd68c434f8f1ab627",
+      "tamano": 280,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_meadow.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_basalt_deltas.json",
+      "sha1": "a26f68dbc399c12ce10a638cb132020be90e5480",
+      "tamano": 313,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_basalt_deltas.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_crimson_forest.json",
+      "sha1": "b6691701593b7d65e98ebd016a6623980729ba62",
+      "tamano": 322,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_crimson_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_end_barrens.json",
+      "sha1": "602618c58b981e66e22896058cf8df65efeadcd9",
+      "tamano": 287,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_end_barrens.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_end_highlands.json",
+      "sha1": "da35089ce1c997a0b1c06d94811696c3b9b85e27",
+      "tamano": 291,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_end_highlands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_end_midlands.json",
+      "sha1": "896118a6b1a22fb4d2dc8a698b59304497c092f2",
+      "tamano": 289,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_end_midlands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_nether_wastes.json",
+      "sha1": "df2f05a52e35273ca83edecc34daca91062f7dc6",
+      "tamano": 308,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_nether_wastes.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_small_end_islands.json",
+      "sha1": "511ffda06d73ff451e10055da61e04d985c6a0b8",
+      "tamano": 299,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_small_end_islands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_soul_sand_valley.json",
+      "sha1": "44560ce5d5d17e4baf7ac4ccd3a25a5beb7e0b23",
+      "tamano": 316,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_soul_sand_valley.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_the_end.json",
+      "sha1": "606c0869552c3f32fa8b520ee115a0df36643264",
+      "tamano": 275,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_the_end.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_minecraft_warped_forest.json",
+      "sha1": "45262081428f4269a9053a1b3b5d241d49fa31e3",
+      "tamano": 318,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_minecraft_warped_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_mushroom_fields.json",
+      "sha1": "09e1454c91aec900e80e077be5b6089b3f90c937",
+      "tamano": 295,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_mushroom_fields.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_old_growth_birch_forest.json",
+      "sha1": "a1762831a80079c28404a847cd3df74e1e86bf4e",
+      "tamano": 310,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_old_growth_birch_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_old_growth_pine_taiga.json",
+      "sha1": "f4c57dfd66bfbc4bedfb5b648c9edbac149e7d9b",
+      "tamano": 305,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_old_growth_pine_taiga.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_old_growth_spruce_taiga.json",
+      "sha1": "c4d17fe5435240fb5069d313f4712334e269ff76",
+      "tamano": 309,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_old_growth_spruce_taiga.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_plains.json",
+      "sha1": "4ce8bb506a64f8eb04ec95d993963be9c3f2135d",
+      "tamano": 276,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_plains.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_river.json",
+      "sha1": "d64d919486e9d3365c5e99e261809723b1a06160",
+      "tamano": 271,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_river.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_savanna_plateau.json",
+      "sha1": "60e71aaf33d2f684c9e481543f10a9b6ecf62150",
+      "tamano": 296,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_savanna_plateau.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_savanna.json",
+      "sha1": "841c8e047cdb0600a72d26f3e8a6e7b2bd478a1c",
+      "tamano": 281,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_savanna.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_snowy_beach.json",
+      "sha1": "12b086b04512bd89db45103c3562d7c98979d893",
+      "tamano": 282,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_snowy_beach.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_snowy_plains.json",
+      "sha1": "fe0600d39d8aa8e7e1107552e025f04d08155b13",
+      "tamano": 291,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_snowy_plains.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_snowy_slopes.json",
+      "sha1": "09aa4329327b8aec435484a71947ebc641c36529",
+      "tamano": 290,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_snowy_slopes.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_snowy_taiga.json",
+      "sha1": "c3e5c246309b8c9b785b6e98833bb6107f5344d1",
+      "tamano": 290,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_snowy_taiga.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_sparse_jungle.json",
+      "sha1": "a2ad572867b968480373004eec099572e5ab4e74",
+      "tamano": 293,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_sparse_jungle.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_stony_peaks.json",
+      "sha1": "4116399c6cc4083fd0c95f7fb32dfcbe6f07479c",
+      "tamano": 313,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_stony_peaks.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_stony_shore.json",
+      "sha1": "e99cbb59f4909cd6f094d4c7ccac40ba898a318d",
+      "tamano": 317,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_stony_shore.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_sunflower_plains.json",
+      "sha1": "a81b29042d270d825986bc42ce7a16e520d0aa67",
+      "tamano": 296,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_sunflower_plains.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_swamp.json",
+      "sha1": "9b3510e4af020a71d3452ef09671d999a9ef7c14",
+      "tamano": 311,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_swamp.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_taiga.json",
+      "sha1": "e8d54397869f31164d0e806a0baf1b7d3924de5b",
+      "tamano": 274,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_taiga.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_windswept_forest.json",
+      "sha1": "29108893677864ccf55c038e119e6cc3a983fba5",
+      "tamano": 292,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_windswept_forest.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_windswept_gravelly_hills.json",
+      "sha1": "fe8c42f4da8e275784c0d8f69b17aa9596f19ed4",
+      "tamano": 304,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_windswept_gravelly_hills.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_windswept_hills.json",
+      "sha1": "1b4fdf0b930200b0310b802f917c0e184a999ac5",
+      "tamano": 326,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_windswept_hills.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_windswept_savanna.json",
+      "sha1": "c5d6f5f37933d0f4b9a33de8ce0eb3faeaa1dc7c",
+      "tamano": 325,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_windswept_savanna.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/natural_wooded_badlands.json",
+      "sha1": "ea64859579cd832d41bbbadd94fc4c1b96d9b6bb",
+      "tamano": 333,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/natural_wooded_badlands.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/nether_blackstone_road.json",
+      "sha1": "44b0559eed0b223761df70689dc92962b1d946d6",
+      "tamano": 406,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/nether_blackstone_road.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/nether_brick_road.json",
+      "sha1": "67bfb3fdc623324fcd35c0cdbdca4c2dcf3a957a",
+      "tamano": 389,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/nether_brick_road.json"
+    },
+    {
+      "ruta": "config/roadweaver/presets/stone_street.json",
+      "sha1": "4bd792c971ad560ca1de339c0360ef61f6610838",
+      "tamano": 310,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/presets/stone_street.json"
+    },
+    {
+      "ruta": "config/roadweaver/roadweaver.json",
+      "sha1": "25a0a303058a865de04cecc130008e673eb9254e",
+      "tamano": 2967,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/roadweaver.json"
+    },
+    {
+      "ruta": "config/roadweaver/structure_cache.json",
+      "sha1": "1bf47da8509c3e85c6131cfc62aa5feca0b3293a",
+      "tamano": 34768,
+      "conservar": true,
+      "url": "archivos/config/roadweaver/structure_cache.json"
+    },
+    {
+      "ruta": "config/sereneseasons/fertility.toml",
+      "sha1": "f200236ef142693565674c774f4de3bf99a8bb2c",
+      "tamano": 481,
+      "conservar": true,
+      "url": "archivos/config/sereneseasons/fertility.toml"
+    },
+    {
+      "ruta": "config/sereneseasons/seasons.toml",
+      "sha1": "c992d3ce94227abb11fcf24e4faa87177e18ff7d",
+      "tamano": 13899,
+      "conservar": true,
+      "url": "archivos/config/sereneseasons/seasons.toml"
+    },
+    {
+      "ruta": "config/smooth_steps.json",
+      "sha1": "4ca8cb68ef19fe1ce2dcf5dad2923780e8064c62",
+      "tamano": 63,
+      "conservar": true,
+      "url": "archivos/config/smooth_steps.json"
+    },
+    {
+      "ruta": "config/sodium-extra-options.json",
+      "sha1": "f5d4d87721c703cb9c504df16d7a5efe4aa5857e",
+      "tamano": 16291,
+      "conservar": true,
+      "url": "archivos/config/sodium-extra-options.json"
+    },
+    {
+      "ruta": "config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+      "tamano": 360,
+      "conservar": true,
+      "url": "archivos/config/sodium-extra.properties"
+    },
+    {
+      "ruta": "config/sodium-fingerprint.json",
+      "sha1": "438ed496c7ad25e1c7f0f6ed371f6fc9f9d87289",
+      "tamano": 427,
+      "conservar": true,
+      "url": "archivos/config/sodium-fingerprint.json"
+    },
+    {
+      "ruta": "config/sodium-mixins.properties",
+      "sha1": "b1fdf3038060accec696177db699276ed074a6d2",
+      "tamano": 265,
+      "conservar": true,
+      "url": "archivos/config/sodium-mixins.properties"
+    },
+    {
+      "ruta": "config/sodium-options.json",
+      "sha1": "402f782eb5c76130c337d5f1f9873cc8b92f2680",
+      "tamano": 696,
+      "conservar": true,
+      "url": "archivos/config/sodium-options.json"
+    },
+    {
+      "ruta": "config/sound_physics_remastered/occlusion.properties",
+      "sha1": "5eac9cfb94e24fa3256faab120c97e3d1615cce5",
+      "tamano": 4879,
+      "conservar": true,
+      "url": "archivos/config/sound_physics_remastered/occlusion.properties"
+    },
+    {
+      "ruta": "config/sound_physics_remastered/reflectivity.properties",
+      "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+      "tamano": 4713,
+      "conservar": true,
+      "url": "archivos/config/sound_physics_remastered/reflectivity.properties"
+    },
+    {
+      "ruta": "config/sound_physics_remastered/sound_rates.properties",
+      "sha1": "49fcc97dcbbce0f4145052881369387dbce48efa",
+      "tamano": 93582,
+      "conservar": true,
+      "url": "archivos/config/sound_physics_remastered/sound_rates.properties"
+    },
+    {
+      "ruta": "config/sound_physics_remastered/soundphysics.properties",
+      "sha1": "ac325a6172d101035d4826aea17969e40cf23876",
+      "tamano": 5104,
+      "conservar": true,
+      "url": "archivos/config/sound_physics_remastered/soundphysics.properties"
+    },
+    {
+      "ruta": "config/streamsreflowing-client.properties",
+      "sha1": "214c57795ec8d534de565ec7f38c11c8b5a7bcf9",
+      "tamano": 4292,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing-client.properties"
+    },
+    {
+      "ruta": "config/streamsreflowing.properties",
+      "sha1": "bcc64762b4bed1b54eb95421e09532fa9d62d617",
+      "tamano": 36150,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing.properties"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/.seeded_defaults",
+      "sha1": "6ae0d84c894325b9573fe8005460cf5ac09e8472",
+      "tamano": 145,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/.seeded_defaults"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/examples/example.json",
+      "sha1": "1a93fac0e0c0ada42bf1c1d3e82472cb993f566b",
+      "tamano": 245,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/examples/example.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/fallen_logs.json",
+      "sha1": "3e2bfaaf317ab43faea5785e8e4ba5b74a34c41d",
+      "tamano": 281,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/fallen_logs.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/fallen_tree_jungle.json",
+      "sha1": "507d92fe331bb56d57a7fa2e82e71bba1536c26e",
+      "tamano": 214,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/fallen_tree_jungle.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/fallen_tree_savanna.json",
+      "sha1": "f700d94807b1bb362eb03116a928cd2404e4ca77",
+      "tamano": 192,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/fallen_tree_savanna.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/GUIDE.md",
+      "sha1": "0ee1fbc2a9972ef4aa67ae07f124640a541676d1",
+      "tamano": 11563,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/GUIDE.md"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/pale_driftwood_beach.json",
+      "sha1": "a6d5d80f8390ec0a1fc9f71fe0d644a172586248",
+      "tamano": 258,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/pale_driftwood_beach.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/pale_driftwood_dry.json",
+      "sha1": "66de9f5e4eb8a479ffc7f6b637fe29163c2c7609",
+      "tamano": 443,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/pale_driftwood_dry.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/README.md",
+      "sha1": "d36fbb10f82d2ac825fa90d70a0dc832ad09898a",
+      "tamano": 2491,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/README.md"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_features/taiga_fallen_logs.json",
+      "sha1": "53e4a6b94cd214ecc0d7980a40387904355162d9",
+      "tamano": 238,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_features/taiga_fallen_logs.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/badlands.json",
+      "sha1": "983916513871f4228fb3587fcff91ed2f1b99c52",
+      "tamano": 192,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/badlands.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/beach.json",
+      "sha1": "3664b92fb0f465f15c6a2e64b36fa379db935bc7",
+      "tamano": 272,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/beach.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/cherry_grove.json",
+      "sha1": "e83a160420bca7ff7a1df33b90134d0425c9ddfb",
+      "tamano": 217,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/cherry_grove.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/climate_dry.json",
+      "sha1": "bd35a570cdfd7319b82d8bc14c311404a5aa9b29",
+      "tamano": 366,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/climate_dry.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/climate_sandy.json",
+      "sha1": "b54f1f2aed3a942f146bc56a83a3da84f05bb126",
+      "tamano": 265,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/climate_sandy.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/climate_snowy.json",
+      "sha1": "ee5509173c9416581aceb0babb1fdbf503b77fa9",
+      "tamano": 297,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/climate_snowy.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/climate_wet.json",
+      "sha1": "1c7ea34df0178230b0131fd4b90ef7780438c275",
+      "tamano": 228,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/climate_wet.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/dark_forest.json",
+      "sha1": "749cf3e002cd7cd9127881ef4a3919cd4007bc60",
+      "tamano": 209,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/dark_forest.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/deciduous.json",
+      "sha1": "0f00c41c47e085f54b8d82e7809c26716920b757",
+      "tamano": 370,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/deciduous.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/default.json",
+      "sha1": "0a8531827497371fae17c452cb3bf50519404fae",
+      "tamano": 257,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/default.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/desert.json",
+      "sha1": "794d6681a8293bb2b565d0c274643326a9f29a9e",
+      "tamano": 254,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/desert.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/forest.json",
+      "sha1": "3b4f3cdcffa56aa90abe9f5209ce638b233ea8fe",
+      "tamano": 369,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/forest.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/frozen_river.json",
+      "sha1": "10f86326c9929996feb5318a7dac79e1ddffdb7b",
+      "tamano": 189,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/frozen_river.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/jungle.json",
+      "sha1": "ec043478f5e7a83e7e8f8ce691501c0d470a83d1",
+      "tamano": 266,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/jungle.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/mangrove_swamp.json",
+      "sha1": "5d8d5f5049c4d3656929568853499a97532c2561",
+      "tamano": 275,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/mangrove_swamp.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/meadow.json",
+      "sha1": "93d3b660b4496bcf63b3f43c3e49fe884289f42a",
+      "tamano": 298,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/meadow.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/mushroom_fields.json",
+      "sha1": "4215641f52809528cdaeba570f9a5a116f44dbfa",
+      "tamano": 155,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/mushroom_fields.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean_c.json",
+      "sha1": "c6c5f4bd417f89643d0e4e648996d37483fc912d",
+      "tamano": 234,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean_c.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean_cold.json",
+      "sha1": "66558a317162b1dc908970fcfe1ec2e560f96f69",
+      "tamano": 274,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean_cold.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean_deep.json",
+      "sha1": "43fae57428a2f560559f347b8da56dda6596045f",
+      "tamano": 245,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean_deep.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean_frozen.json",
+      "sha1": "09a7476b6cf83f66cf1deddee62f640f175eea22",
+      "tamano": 278,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean_frozen.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean_warm.json",
+      "sha1": "ff6cc9c98d664716466ce5f6bdfdfda0a05f3177",
+      "tamano": 304,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean_warm.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/ocean.json",
+      "sha1": "a7b80397a1eb7432212b252190b192daa1af786f",
+      "tamano": 238,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/ocean.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/plains_c.json",
+      "sha1": "98ca3c05f822ff87ce0ff48ba817fd0f5f583c99",
+      "tamano": 437,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/plains_c.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/plains.json",
+      "sha1": "2a82ebc67b9ce44bb7a2d8bd28cc0900088669a5",
+      "tamano": 384,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/plains.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/river_c.json",
+      "sha1": "5ae1d4ee1035f20b203875d62015ad854a447488",
+      "tamano": 289,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/river_c.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/river.json",
+      "sha1": "8ca524416e0584fc2dc5202b51ef27975e9d8ab7",
+      "tamano": 342,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/river.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/savanna.json",
+      "sha1": "a5c5a5515e92d20642d4dfd934b16bbaac9f287e",
+      "tamano": 303,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/savanna.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/snowy_beach.json",
+      "sha1": "6bd66f851d81922182ba5b44c1ff3e40212f0463",
+      "tamano": 232,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/snowy_beach.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/snowy.json",
+      "sha1": "15902e0af2d6c812279453cd0eba45ef3db88086",
+      "tamano": 386,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/snowy.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/stony_peaks.json",
+      "sha1": "b51640157167d209e823caccf8d8840b7a8ac33e",
+      "tamano": 229,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/stony_peaks.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/stony_shore.json",
+      "sha1": "88b191a9dacb68e7b417f7c6f4e06c36721db1f6",
+      "tamano": 186,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/stony_shore.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/swamp.json",
+      "sha1": "16c0de5553b386cc7df1967cba78837e75d63448",
+      "tamano": 266,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/swamp.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/taiga_c.json",
+      "sha1": "0b7fd019cb5750f5ae98afd217dcf55db34c50c8",
+      "tamano": 428,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/taiga_c.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/taiga.json",
+      "sha1": "c511c1149d9b44b8a2d225bfb916cfc8952d78d9",
+      "tamano": 404,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/taiga.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/examples/windswept.json",
+      "sha1": "e525134cb953448b2950c73770facf8b2d345aa5",
+      "tamano": 286,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/examples/windswept.json"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/GUIDE.md",
+      "sha1": "0ee1fbc2a9972ef4aa67ae07f124640a541676d1",
+      "tamano": 11563,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/GUIDE.md"
+    },
+    {
+      "ruta": "config/streamsreflowing/bank_styles/README.md",
+      "sha1": "661c2bf0a760add8a8ef7bb042de7c20b6c27357",
+      "tamano": 3119,
+      "conservar": true,
+      "url": "archivos/config/streamsreflowing/bank_styles/README.md"
+    },
+    {
+      "ruta": "config/subtle_effects/blocks.toml",
+      "sha1": "01eb7ffba4a0f978496f35a638b744dfcb62e95f",
+      "tamano": 4237,
+      "conservar": true,
+      "url": "archivos/config/subtle_effects/blocks.toml"
+    },
+    {
+      "ruta": "config/subtle_effects/entities.toml",
+      "sha1": "9356eb5586c8d155f6a7a0a21d48fd5ce48718ec",
+      "tamano": 3099,
+      "conservar": true,
+      "url": "archivos/config/subtle_effects/entities.toml"
+    },
+    {
+      "ruta": "config/subtle_effects/environment.toml",
+      "sha1": "f2cdde0dca666ccc49c940121c02139a3986cd83",
+      "tamano": 2523,
+      "conservar": true,
+      "url": "archivos/config/subtle_effects/environment.toml"
+    },
+    {
+      "ruta": "config/subtle_effects/general.toml",
+      "sha1": "65f95c9a0ec32a5d7f719ebe099f29e0172dad75",
+      "tamano": 1126,
+      "conservar": true,
+      "url": "archivos/config/subtle_effects/general.toml"
+    },
+    {
+      "ruta": "config/subtle_effects/items.toml",
+      "sha1": "22441f163a7d580c9225e66bdab2e2c511145556",
+      "tamano": 1058,
+      "conservar": true,
+      "url": "archivos/config/subtle_effects/items.toml"
+    },
+    {
+      "ruta": "config/terrain_slabs.json",
+      "sha1": "ce77c261a1e62d7ce3650afcb99b7cb3f862e097",
+      "tamano": 189,
+      "conservar": true,
+      "url": "archivos/config/terrain_slabs.json"
+    },
+    {
+      "ruta": "config/terrestria/biome.json",
+      "sha1": "f77dacff0889f4522536ca8667a5c1447c7d163d",
+      "tamano": 584,
+      "conservar": true,
+      "url": "archivos/config/terrestria/biome.json"
+    },
+    {
+      "ruta": "config/terrestria/client.json",
+      "sha1": "d7383c7742a4fcf938430b7a88c7ffc71bc6aa4e",
+      "tamano": 25,
+      "conservar": true,
+      "url": "archivos/config/terrestria/client.json"
+    },
+    {
+      "ruta": "config/terrestria/general.json",
+      "sha1": "4f82c259eef1fc9f1231a65a11dc190a01084c8f",
+      "tamano": 53,
+      "conservar": true,
+      "url": "archivos/config/terrestria/general.json"
+    },
+    {
+      "ruta": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "sha1": "87b5e4771c01d665fc630a781cef62cf0dfbaf82",
+      "tamano": 3051,
+      "conservar": true,
+      "url": "archivos/config/towns_and_towers/structure_enable_or_disable_new.json5"
+    },
+    {
+      "ruta": "config/towns_and_towers/structure_rarity_new.json5",
+      "sha1": "93d5d84090cccdd1fb787ca27e5b100737158b4d",
+      "tamano": 1520,
+      "conservar": true,
+      "url": "archivos/config/towns_and_towers/structure_rarity_new.json5"
+    },
+    {
+      "ruta": "config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+      "tamano": 97,
+      "conservar": true,
+      "url": "archivos/config/transition.json"
+    },
+    {
+      "ruta": "config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+      "tamano": 47,
+      "conservar": true,
+      "url": "archivos/config/trender.json"
+    },
+    {
+      "ruta": "config/trmt-client.json",
+      "sha1": "dba3b8b1d33116b71cdcc2a9dfcdcb0e02a9a583",
+      "tamano": 23,
+      "conservar": true,
+      "url": "archivos/config/trmt-client.json"
+    },
+    {
+      "ruta": "config/trmt.json",
+      "sha1": "1f7734c41beb92ee3bdc850c3cd8b7846eff79dd",
+      "tamano": 1660,
+      "conservar": true,
+      "url": "archivos/config/trmt.json"
+    },
+    {
+      "ruta": "config/untitledduckmod.json",
+      "sha1": "3eaa0342d598ccf3765595f39cef06a119243657",
+      "tamano": 518,
+      "conservar": true,
+      "url": "archivos/config/untitledduckmod.json"
+    },
+    {
+      "ruta": "config/vanilla_structures/placement_structure_config.json5",
+      "sha1": "2df88f9da1e31229125fc81ee57ce897f54f0cb5",
+      "tamano": 1938,
+      "conservar": true,
+      "url": "archivos/config/vanilla_structures/placement_structure_config.json5"
+    },
+    {
+      "ruta": "config/vanilla_structures/toggle_structure_config.json5",
+      "sha1": "1d3a26ff34edb8091a9deee5124bd4d349d97731",
+      "tamano": 1584,
+      "conservar": true,
+      "url": "archivos/config/vanilla_structures/toggle_structure_config.json5"
+    },
+    {
+      "ruta": "config/vcinteraction/vcinteraction.properties",
+      "sha1": "8b9f809e175d36c4db98afd380f4898bbfbf7763",
+      "tamano": 388,
+      "conservar": true,
+      "url": "archivos/config/vcinteraction/vcinteraction.properties"
+    },
+    {
+      "ruta": "config/voicechat/category-volumes.properties",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "tamano": 46,
+      "conservar": true,
+      "url": "archivos/config/voicechat/category-volumes.properties"
+    },
+    {
+      "ruta": "config/voicechat/player-volumes.properties",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "tamano": 44,
+      "conservar": true,
+      "url": "archivos/config/voicechat/player-volumes.properties"
+    },
+    {
+      "ruta": "config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "tamano": 1182,
+      "conservar": true,
+      "url": "archivos/config/voicechat/translations.properties"
+    },
+    {
+      "ruta": "config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "tamano": 2,
+      "conservar": true,
+      "url": "archivos/config/voicechat/username-cache.json"
+    },
+    {
+      "ruta": "config/voicechat/voicechat-client.properties",
+      "sha1": "72d4670c7866023a631ce99e36311d9646229b56",
+      "tamano": 5009,
+      "conservar": true,
+      "url": "archivos/config/voicechat/voicechat-client.properties"
+    },
+    {
+      "ruta": "config/voicechat/voicechat-server.properties",
+      "sha1": "1bb28c74e7717c20713302b212519ad0f2a1fab0",
+      "tamano": 2442,
+      "conservar": true,
+      "url": "archivos/config/voicechat/voicechat-server.properties"
+    },
+    {
+      "ruta": "config/wilderwild/block.json5",
+      "sha1": "235c27a85074e9005547e917fb0fd30be0869e9e",
+      "tamano": 1635,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/block.json5"
+    },
+    {
+      "ruta": "config/wilderwild/entity.json5",
+      "sha1": "eb6b0888a0d2a12e950822fe337ddac670cb0fc9",
+      "tamano": 2421,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/entity.json5"
+    },
+    {
+      "ruta": "config/wilderwild/item.json5",
+      "sha1": "e743a97848edc7d6134516dfbbb0c195326ecf4d",
+      "tamano": 233,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/item.json5"
+    },
+    {
+      "ruta": "config/wilderwild/misc.json5",
+      "sha1": "d9b037d1c7dc8ef9786687ade622d3b788299bc0",
+      "tamano": 2090,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/misc.json5"
+    },
+    {
+      "ruta": "config/wilderwild/mixins.json5",
+      "sha1": "169e55752a92de378e21a793c07cd573361adc1e",
+      "tamano": 1337,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/mixins.json5"
+    },
+    {
+      "ruta": "config/wilderwild/worldgen.json5",
+      "sha1": "b6b04dbd32ad9198d9cf2db8d6de138c15b88cb0",
+      "tamano": 3656,
+      "conservar": true,
+      "url": "archivos/config/wilderwild/worldgen.json5"
+    },
+    {
+      "ruta": "config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "tamano": 26,
+      "conservar": true,
+      "url": "archivos/config/xaero/lib/client.cfg"
+    },
+    {
+      "ruta": "config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "tamano": 236,
+      "conservar": true,
+      "url": "archivos/config/xaero/lib/common.cfg"
+    },
+    {
+      "ruta": "config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "tamano": 121,
+      "conservar": true,
+      "url": "archivos/config/xaero/lib/profiles/default.cfg"
+    },
+    {
+      "ruta": "config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "tamano": 75,
+      "conservar": true,
+      "url": "archivos/config/xaero/lib/server_profiles/default.cfg"
+    },
+    {
+      "ruta": "config/xaero/world-map/client.cfg",
+      "sha1": "97fbbc319e6d1b22f0cdbb1f33d6fe13bfcbed5d",
+      "tamano": 523,
+      "conservar": true,
+      "url": "archivos/config/xaero/world-map/client.cfg"
+    },
+    {
+      "ruta": "config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "tamano": 141,
+      "conservar": true,
+      "url": "archivos/config/xaero/world-map/common.cfg"
+    },
+    {
+      "ruta": "config/xaero/world-map/profiles/default.cfg",
+      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+      "tamano": 1619,
+      "conservar": true,
+      "url": "archivos/config/xaero/world-map/profiles/default.cfg"
+    },
+    {
+      "ruta": "config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "tamano": 75,
+      "conservar": true,
+      "url": "archivos/config/xaero/world-map/server_profiles/default.cfg"
+    },
+    {
+      "ruta": "config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "tamano": 0,
+      "conservar": true,
+      "url": "archivos/config/xaeropatreon.txt"
+    },
+    {
+      "ruta": "config/xaeroworldmap-common.txt.backup0",
+      "sha1": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97",
+      "tamano": 120,
+      "conservar": true,
+      "url": "archivos/config/xaeroworldmap-common.txt.backup0"
+    },
+    {
+      "ruta": "config/xaeroworldmap.txt.backup0",
+      "sha1": "62f5a947d0f7934ad78fc486f87de30b2a46e81d",
+      "tamano": 1220,
+      "conservar": true,
+      "url": "archivos/config/xaeroworldmap.txt.backup0"
+    },
+    {
+      "ruta": "config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+      "tamano": 250,
+      "conservar": true,
+      "url": "archivos/config/yacl.json5"
+    },
+    {
+      "ruta": "config/zoomify.json",
+      "sha1": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
+      "tamano": 708,
+      "conservar": true,
+      "url": "archivos/config/zoomify.json"
+    },
+    {
+      "ruta": "mods/architectury-19.0.1-fabric.jar",
+      "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
+      "tamano": 568474,
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+      "titulo": "Architectury API",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/architectury-api"
+    },
+    {
+      "ruta": "mods/autohud-8.11+1.21.11-fabric.jar",
+      "sha1": "2c7e7e2ff392c373d034ee4f4160d15119b56319",
+      "tamano": 376610,
+      "url": "https://cdn.modrinth.com/data/temczoTQ/versions/8sEdPebk/autohud-8.11%2B1.21.11-fabric.jar",
+      "titulo": "Auto HUD",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/autohud"
+    },
+    {
+      "ruta": "mods/blooming-biosphere-v1.1.12.jar",
+      "sha1": "eed6a4df9b1d531f5895724a8e9380d457a08bb4",
+      "tamano": 670732,
+      "url": "https://cdn.modrinth.com/data/Ds9FyUc7/versions/Cut06HEu/blooming-biosphere-v1.1.12.jar",
+      "titulo": "Blooming Biosphere",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/blooming-biosphere"
+    },
+    {
+      "ruta": "mods/c2me-fabric-mc1.21.11-0.4.0-alpha.0.26.jar",
+      "sha1": "df65af922d70332b5dc647932bb2ebd4280260e9",
+      "tamano": 3829586,
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/879vA5z6/c2me-fabric-mc1.21.11-0.4.0-alpha.0.26.jar",
+      "titulo": "Concurrent Chunk Management Engine (Fabric)",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/c2me-fabric"
+    },
+    {
+      "ruta": "mods/CameraOverhaul-v2.1.1-fabric-1.21.11.jar",
+      "sha1": "84d08001f3c986b3e5a20e4467c294c9606ae53a",
+      "tamano": 140031,
+      "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/WmkhU8Rr/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.21.11%5D.jar",
+      "titulo": "Camera Overhaul",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/cameraoverhaul"
+    },
+    {
+      "ruta": "mods/Chunky-Fabric-1.4.55.jar",
+      "sha1": "19c34a23a5c1b2f6c73117b8eb4524b521e1926b",
+      "tamano": 355288,
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1CpEkmcD/Chunky-Fabric-1.4.55.jar",
+      "titulo": "Chunky",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/chunky"
+    },
+    {
+      "ruta": "mods/cloth-config-21.11.153-fabric.jar",
+      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+      "tamano": 1148427,
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+      "titulo": "Cloth Config API",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/cloth-config"
+    },
+    {
+      "ruta": "mods/cristellib-fabric-1.21.11-3.1.7.jar",
+      "sha1": "2a37db56e908edda5436a18e28552c43512a84ab",
+      "tamano": 585390,
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/1NM741mO/cristellib-fabric-1.21.11-3.1.7.jar",
+      "titulo": "Cristel Lib",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/cristel-lib"
+    },
+    {
+      "ruta": "mods/DistantHorizons-3.2.0-b-1.21.11-fabric-neoforge.jar",
+      "sha1": "cf84f071a329c1c7500ed85e0fee80fafaf05163",
+      "tamano": 30199888,
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/bCTilxSz/DistantHorizons-3.2.0-b-1.21.11-fabric-neoforge.jar",
+      "titulo": "Distant Horizons",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/distanthorizons"
+    },
+    {
+      "ruta": "mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "sha1": "fb87711a8252c4b54908c589e3c13b00a767808e",
+      "tamano": 581295,
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/CWZPvNbk/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "titulo": "[EMF] Entity Model Features",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/entity-model-features"
+    },
+    {
+      "ruta": "mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4",
+      "tamano": 744971,
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/rAQimlSn/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "titulo": "[ETF] Entity Texture Features",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/entitytexturefeatures"
+    },
+    {
+      "ruta": "mods/entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "sha1": "270493a6d3a3214495abed9e74f2181817043963",
+      "tamano": 1604674,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/sP0vNbeN/entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "titulo": "Entity Culling",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/entityculling"
+    },
+    {
+      "ruta": "mods/ExplorersCompass-1.21.11-2.5.1-fabric.jar",
+      "sha1": "5544f44c2ddc1986a80da582e6c9be450d6312a6",
+      "tamano": 176925,
+      "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/aS4au8gn/ExplorersCompass-1.21.11-2.5.1-fabric.jar",
+      "titulo": "Explorer's Compass",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/explorers-compass"
+    },
+    {
+      "ruta": "mods/Explorify-v1.6.5.mod.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd",
+      "tamano": 767884,
+      "url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/CuBdAr31/Explorify%20v1.6.5.mod.jar",
+      "titulo": "Explorify",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/explorify"
+    },
+    {
+      "ruta": "mods/fabric-api-0.141.6+1.21.11.jar",
+      "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
+      "tamano": 2426039,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+      "titulo": "Fabric API",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/fabric-api"
+    },
+    {
+      "ruta": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+      "tamano": 8076363,
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+      "titulo": "Fabric Language Kotlin",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/fabric-language-kotlin"
+    },
+    {
+      "ruta": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+      "tamano": 598009,
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "titulo": "Forge Config API Port",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/forge-config-api-port"
+    },
+    {
+      "ruta": "mods/FrozenLib-2.3-mc1.21.11.jar",
+      "sha1": "8080110e1aff456196b43cc2ba837723d784cd69",
+      "tamano": 1622218,
+      "url": "https://cdn.modrinth.com/data/9KawNmQc/versions/qegZSYpO/FrozenLib-2.3-mc1.21.11.jar",
+      "titulo": "FrozenLib",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/frozenlib"
+    },
+    {
+      "ruta": "mods/fzzy_config-0.7.6+1.21.11.jar",
+      "sha1": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8",
+      "tamano": 2370785,
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar",
+      "titulo": "Fzzy Config",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/fzzy-config"
+    },
+    {
+      "ruta": "mods/geckolib-fabric-1.21.11-5.4.5.jar",
+      "sha1": "41cd2e142e48a8b6604d85764a6466fe5edb70c3",
+      "tamano": 822664,
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/G1BvHQDL/geckolib-fabric-1.21.11-5.4.5.jar",
+      "titulo": "Geckolib",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/geckolib"
+    },
+    {
+      "ruta": "mods/Geophilic v3.6.mod.jar",
+      "sha1": "1eb1700a02ebeab1bf1f3004abd4a02263495d25",
+      "tamano": 906446,
+      "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/jDzSPLta/Geophilic%20v3.6.mod.jar",
+      "titulo": "Geophilic",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/geophilic"
+    },
+    {
+      "ruta": "mods/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+      "sha1": "5c3d6333ff8c50d4b5c16c9185e020d8afcb4988",
+      "tamano": 342702,
+      "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/CO7NeLTt/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+      "titulo": "GlitchCore",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/glitchcore"
+    },
+    {
+      "ruta": "mods/graves-fabric-1.21.11-1.0.1.jar",
+      "sha1": "dee34bef1728439b09b95179657ccd5c71bbdd35",
+      "tamano": 55470,
+      "url": "https://cdn.modrinth.com/data/YQybd3R7/versions/Q3QSpDiM/graves-fabric-1.21.11-1.0.1.jar",
+      "titulo": "Player Corpse",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/player-corpse"
+    },
+    {
+      "ruta": "mods/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+      "sha1": "43e451464f979bdf9ff4ac288b358a2f91b79ed8",
+      "tamano": 302709,
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
+      "titulo": "ImmediatelyFast",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/immediatelyfast"
+    },
+    {
+      "ruta": "mods/indomitablemod-1.0.0.jar",
+      "sha1": "56d069c7b8ce089e45a1aed8aa97528f6e4af956",
+      "tamano": 40575,
+      "url": "archivos/mods/indomitablemod-1.0.0.jar"
+    },
+    {
+      "ruta": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+      "tamano": 2807547,
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+      "titulo": "Iris Shaders",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/iris"
+    },
+    {
+      "ruta": "mods/jei-1.21.11-fabric-27.34.0.88.jar",
+      "sha1": "d05e0aa6372d58a0dbaa91fe9542eb463a2d28e4",
+      "tamano": 1833382,
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zNZd1SeH/jei-1.21.11-fabric-27.34.0.88.jar",
+      "titulo": "Just Enough Items (JEI)",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/jei"
+    },
+    {
+      "ruta": "mods/kirin-1.21.5+1.21.11.jar",
+      "sha1": "0c00d9a251b77590e651da24b3fdf91d505605d0",
+      "tamano": 141647,
+      "url": "https://cdn.modrinth.com/data/9aNz8Zqn/versions/REbB57c6/kirin-1.21.5%2B1.21.11.jar",
+      "titulo": "Kirin",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/kirin"
+    },
+    {
+      "ruta": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+      "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+      "tamano": 900462,
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+      "titulo": "Lithium",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/lithium"
+    },
+    {
+      "ruta": "mods/lovely_snails-1.2.3+1.21.11.jar",
+      "sha1": "c9c3bbf7cfb3f8db028f7ea69cbad3a6c35ccd45",
+      "tamano": 145236,
+      "url": "https://cdn.modrinth.com/data/hBVVhStr/versions/SdvJz5u9/lovely_snails-1.2.3%2B1.21.11.jar",
+      "titulo": "Lovely Snails",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/lovely_snails"
+    },
+    {
+      "ruta": "mods/modmenu-17.0.0.jar",
+      "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b",
+      "tamano": 1115809,
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
+      "titulo": "Mod Menu",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/modmenu"
+    },
+    {
+      "ruta": "mods/NaturesCompass-1.21.11-2.5.0-fabric.jar",
+      "sha1": "c44dd594532e5eaa6b90831ab80f62b7bdb09f11",
+      "tamano": 232525,
+      "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/7w8oJxSS/NaturesCompass-1.21.11-2.5.0-fabric.jar",
+      "titulo": "Nature's Compass",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/natures-compass"
+    },
+    {
+      "ruta": "mods/particlerain-4.0.0-beta.11+1.21.11-fabric.jar",
+      "sha1": "2c9bfec86b8d5e52a61883f1ec62ec136e657f4a",
+      "tamano": 621589,
+      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/7LBHIjGq/particlerain-4.0.0-beta.11%2B1.21.11-fabric.jar",
+      "titulo": "Particle Rain",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/particle-rain"
+    },
+    {
+      "ruta": "mods/particular-1.21.11-Fabric-1.3.2.jar",
+      "sha1": "6ad860038b9d85586ab675f1f98a002b757aeba9",
+      "tamano": 256927,
+      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/L6A8meKZ/particular-1.21.11-Fabric-1.3.2.jar",
+      "titulo": "Particular ✨ Reforged",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/particular-reforged"
+    },
+    {
+      "ruta": "mods/PresenceFootsteps-1.12.4+1.21.11.jar",
+      "sha1": "65d1454890b23f339da0dd95519f824aaa11bb35",
+      "tamano": 5757598,
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/xjmToylJ/PresenceFootsteps-1.12.4%2B1.21.11.jar",
+      "titulo": "Presence Footsteps",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/presence-footsteps"
+    },
+    {
+      "ruta": "mods/PuzzlesLib-v21.11.13-mc1.21.11-Fabric.jar",
+      "sha1": "f99cbbaf6e14929b842cfb025840e61fdfa9b1e1",
+      "tamano": 1118666,
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/xTX7sOwU/PuzzlesLib-v21.11.13-mc1.21.11-Fabric.jar",
+      "titulo": "Puzzles Lib",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/puzzles-lib"
+    },
+    {
+      "ruta": "mods/resonance-fabric-1.21.11-0.1.1.jar",
+      "sha1": "2c529d00cafa784157cc16b252599e735d4679cd",
+      "tamano": 33037172,
+      "url": "https://cdn.modrinth.com/data/lfpDzHJM/versions/sD6dE0BR/resonance-fabric-1.21.11-0.1.1.jar",
+      "titulo": "Resonance",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/resonance-ambiance"
+    },
+    {
+      "ruta": "mods/RespawningAnimals-v21.11.0-mc1.21.11-Fabric.jar",
+      "sha1": "9e6f9e5f44f280a639ae797450a602b58d798546",
+      "tamano": 43152,
+      "url": "https://cdn.modrinth.com/data/WnwcSeWc/versions/ZwDGOfes/RespawningAnimals-v21.11.0-mc1.21.11-Fabric.jar",
+      "titulo": "Respawning Animals",
+      "lado": "servidor",
+      "pagina": "https://modrinth.com/mod/respawning-animals"
+    },
+    {
+      "ruta": "mods/roadweaver-fabric-2.2.0-1.21.11.jar",
+      "sha1": "51012e130f797adab4c52f43573c21bd50c103d5",
+      "tamano": 5507349,
+      "url": "https://cdn.modrinth.com/data/6jk8Pote/versions/7Z1QvgqG/roadweaver-fabric-2.2.0-1.21.11.jar",
+      "titulo": "RoadWeaver",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/roadweaver"
+    },
+    {
+      "ruta": "mods/SereneSeasons-fabric-1.21.11-21.11.0.5.jar",
+      "sha1": "c971e5f3333c10fb671da7c8c107646e66c41ba5",
+      "tamano": 394520,
+      "url": "https://cdn.modrinth.com/data/e0bNACJD/versions/yn4DGUXH/SereneSeasons-fabric-1.21.11-21.11.0.5.jar",
+      "titulo": "Serene Seasons",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/serene-seasons"
+    },
+    {
+      "ruta": "mods/smooth_steps-fabric-1.1.0.jar",
+      "sha1": "a237e0602755577f4f0d9cf67b5f33a1b024c460",
+      "tamano": 62200,
+      "url": "https://cdn.modrinth.com/data/5VSZqDK0/versions/zPllYgpf/smooth_steps-fabric-1.1.0.jar",
+      "titulo": "Countered's Smooth Steps",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/countereds-smooth-steps"
+    },
+    {
+      "ruta": "mods/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+      "sha1": "e8fd1eae0d589393189f64062ca1e46fc03f4ced",
+      "tamano": 394219,
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/yqY1efrC/sodium-extra-fabric-0.8.3%2Bmc1.21.11.jar",
+      "titulo": "Sodium Extra",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/sodium-extra"
+    },
+    {
+      "ruta": "mods/sodium-fabric-0.8.7+mc1.21.11.jar",
+      "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+      "tamano": 1870358,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
+      "titulo": "Sodium",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/sodium"
+    },
+    {
+      "ruta": "mods/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+      "sha1": "f04c90b17094aaa849b147a42d4df9aa82d54ace",
+      "tamano": 203479,
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+      "titulo": "Sound Physics Remastered",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/sound-physics-remastered"
+    },
+    {
+      "ruta": "mods/StreamsReflowing-1.21.11-fabric-2.13.1.jar",
+      "sha1": "c4a1104f456638afed91d92ace4d1b3f55d41648",
+      "tamano": 2681400,
+      "url": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/9Gj3OihK/StreamsReflowing-1.21.11-fabric-2.13.1.jar",
+      "titulo": "Streams Reflowing",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/streams-reflowing"
+    },
+    {
+      "ruta": "mods/SubtleEffects-fabric-1.21.11-1.14.0.jar",
+      "sha1": "76e426ca0c5638b78146e313f700b6848ff0aeae",
+      "tamano": 3320802,
+      "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/5Uku820x/SubtleEffects-fabric-1.21.11-1.14.0.jar",
+      "titulo": "Subtle Effects",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/subtle-effects"
+    },
+    {
+      "ruta": "mods/t_and_t-fabric-neoforge-1.13.9.jar",
+      "sha1": "8e3bfd88661311dcdde93b5bcb03ce919ad4ef1c",
+      "tamano": 3507359,
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
+      "titulo": "Towns and Towers",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/towns-and-towers"
+    },
+    {
+      "ruta": "mods/terrain_slabs-fabric-3.3.0.jar",
+      "sha1": "ee6bcfc281fa261d5cea179db10243dfc2e164e7",
+      "tamano": 383795,
+      "url": "https://cdn.modrinth.com/data/SJu6sklj/versions/lN7SqBsq/terrain_slabs-fabric-3.3.0.jar",
+      "titulo": "Countered's Terrain Slabs",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/countereds-terrain-slabs"
+    },
+    {
+      "ruta": "mods/terrestria-7.6.0.jar",
+      "sha1": "7571e54532a48efd74e1c881003028c2f26fe604",
+      "tamano": 9180478,
+      "url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/8lLXFr2o/terrestria-7.6.0.jar",
+      "titulo": "Terrestria",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/terrestria"
+    },
+    {
+      "ruta": "mods/trmt-0.5.1-1.21.11-fabric.jar",
+      "sha1": "4c8df049f860dea37137d7f34a24778633ef9810",
+      "tamano": 135042,
+      "url": "https://cdn.modrinth.com/data/74oZhrEe/versions/Nx1ojoWo/trmt-0.5.1-1.21.11-fabric.jar",
+      "titulo": "The Roads More Travelled [TRMT]",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/the-roads-more-travelled"
+    },
+    {
+      "ruta": "mods/untitledduckmod-fabric-1.21.11-1.5.6.jar",
+      "sha1": "b92167b6dd54d85d35cb9d22dd7fe976618ebf3c",
+      "tamano": 343698,
+      "url": "https://cdn.modrinth.com/data/ojFjz7JF/versions/kjVdAw5R/untitledduckmod-fabric-1.21.11-1.5.6.jar",
+      "titulo": "Untitled Duck Mod",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/untitled-duck-mod"
+    },
+    {
+      "ruta": "mods/WilderWild-4.2.4-mc1.21.11.jar",
+      "sha1": "7f39da66b0b2be2a922bed979068a1ba5154cf7a",
+      "tamano": 31815315,
+      "url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/clhFWeSY/WilderWild-4.2.4-mc1.21.11.jar",
+      "titulo": "Wilder Wild",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/wilder-wild"
+    },
+    {
+      "ruta": "mods/xaeroworldmap-fabric-1.21.11-1.45.0.jar",
+      "sha1": "3e93af95b6e0dfb9421cba5c19022c3ced950fa3",
+      "tamano": 1469115,
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4PX8T9We/xaeroworldmap-fabric-1.21.11-1.45.0.jar",
+      "titulo": "Xaero's World Map",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/xaeros-world-map"
+    },
+    {
+      "ruta": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+      "tamano": 1126948,
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+      "titulo": "YetAnotherConfigLib (YACL)",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/yacl"
+    },
+    {
+      "ruta": "mods/zoomify-2.15.2+1.21.11.jar",
+      "sha1": "e1f738a9026e9f087d96861935f994b010b8131a",
+      "tamano": 873443,
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar",
+      "titulo": "Zoomify (Zoom)",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/zoomify"
+    },
+    {
+      "ruta": "shaderpacks/ComplementaryReimagined_r5.3.zip",
+      "sha1": "4dfb4278bdca478cb0a8c185ff8a3d2d1c646c86",
+      "tamano": 446656,
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/71Hn3myZ/ComplementaryReimagined_r5.3.zip",
+      "titulo": "Complementary Shaders - Reimagined",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/shader/complementary-reimagined"
+    }
+  ]
+}
