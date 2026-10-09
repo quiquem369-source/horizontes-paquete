@@ -1,6 +1,6 @@
 # Mods para el servidor de Aternos
 
-Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1611
+Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1648
 
 Instálalos en Aternos → Mods con **exactamente** la versión indicada: los mods que
 agregan bloques, mobs o generación de mundo tienen que coincidir con los del launcher.
@@ -37,9 +37,12 @@ agregan bloques, mobs o generación de mundo tienen que coincidir con los del la
 - [Untitled Duck Mod](https://modrinth.com/mod/untitled-duck-mod) — versión `1.5.6+fabric`
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild) — versión `4.2.4-mc1.21.11`
 
-## Solo en el servidor, no van en el launcher (1)
+## Solo en el servidor, no van en el launcher (4)
 
-- [Down But Not Out](https://modrinth.com/mod/down-but-not-out) — versión `0.5.2+1.21.11` — solo servidor: los clientes no lo necesitan
+- [Down But Not Out](https://modrinth.com/mod/down-but-not-out) — versión `0.5.2+1.21.11` — sistema para revivir; solo servidor
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) — versión `8.2.0-fabric` — menos memoria
+- [Krypton](https://modrinth.com/mod/krypton) — versión `0.2.10` — red más eficiente
+- [spark](https://modrinth.com/mod/spark) — versión `1.10.170-fabric` — diagnóstico de lag: /spark tps, /spark profiler
 
 ## Opcionales que ayudan en el servidor (3)
 
