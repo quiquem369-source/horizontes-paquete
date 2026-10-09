@@ -1,12 +1,15 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1526",
-  "fecha": "2026-10-09T21:26:14.968Z",
+  "version": "2026.10.09-1600",
+  "fecha": "2026-10-09T22:00:00.691Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Primera versión del paquete: los 55 mods que ya usabas en la 1.21.11, con Complementary Reimagined y tu configuración de Distant Horizons, Sodium y compañía.",
-  "servidor": null,
+  "servidor": {
+    "nombre": "Horizontes",
+    "direccion": "Horizonte5.aternos.me"
+  },
   "archivos": [
     {
       "ruta": "config/autohud.json5",
