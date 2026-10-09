@@ -1,11 +1,11 @@
 # Mods para el servidor de Aternos
 
-Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1648
+Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1657
 
 Instálalos en Aternos → Mods con **exactamente** la versión indicada: los mods que
 agregan bloques, mobs o generación de mundo tienen que coincidir con los del launcher.
 
-## Van en el servidor (29)
+## Van en el servidor (30)
 
 - [Architectury API](https://modrinth.com/mod/architectury-api) — versión `19.0.1+fabric`
 - [Blooming Biosphere](https://modrinth.com/mod/blooming-biosphere) — versión `1.1.12`
@@ -30,6 +30,7 @@ agregan bloques, mobs o generación de mundo tienen que coincidir con los del la
 - [Respawning Animals](https://modrinth.com/mod/respawning-animals) — versión `21.11.0`
 - [RoadWeaver](https://modrinth.com/mod/roadweaver) — versión `2.2.1-1.21.11`
 - [Serene Seasons](https://modrinth.com/mod/serene-seasons) — versión `21.11.0.5`
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) — versión `fabric-1.21.11-2.6.24`
 - [Streams Reflowing](https://modrinth.com/mod/streams-reflowing) — versión `2.13.1`
 - [Terrestria](https://modrinth.com/mod/terrestria) — versión `7.6.0`
 - [The Roads More Travelled [TRMT]](https://modrinth.com/mod/the-roads-more-travelled) — versión `0.5.1-1.21.11-fabric`

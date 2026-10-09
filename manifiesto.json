@@ -1,11 +1,11 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1648",
-  "fecha": "2026-10-09T22:48:57.883Z",
+  "version": "2026.10.09-1657",
+  "fecha": "2026-10-09T22:57:14.849Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
-  "notas": "Nuevo sistema para revivir: al «morir» quedas con medio corazón y te arrastras. Un compañero te levanta manteniendo clic derecho con la mano vacía; tu nombre pasa de amarillo a rojo y, si nadie llega en 45 segundos, mueres. Funciona desde el servidor, no hay que instalar nada. Se quitó Indomitable Mod, que Aternos no permite.",
+  "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
   "servidor": {
     "nombre": "Horizontes",
     "direccion": "Horizonte5.aternos.me"
@@ -1342,48 +1342,6 @@
       "url": "archivos/config/vcinteraction/vcinteraction.properties"
     },
     {
-      "ruta": "config/voicechat/category-volumes.properties",
-      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
-      "tamano": 46,
-      "conservar": true,
-      "url": "archivos/config/voicechat/category-volumes.properties"
-    },
-    {
-      "ruta": "config/voicechat/player-volumes.properties",
-      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
-      "tamano": 44,
-      "conservar": true,
-      "url": "archivos/config/voicechat/player-volumes.properties"
-    },
-    {
-      "ruta": "config/voicechat/translations.properties",
-      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
-      "tamano": 1182,
-      "conservar": true,
-      "url": "archivos/config/voicechat/translations.properties"
-    },
-    {
-      "ruta": "config/voicechat/username-cache.json",
-      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
-      "tamano": 2,
-      "conservar": true,
-      "url": "archivos/config/voicechat/username-cache.json"
-    },
-    {
-      "ruta": "config/voicechat/voicechat-client.properties",
-      "sha1": "72d4670c7866023a631ce99e36311d9646229b56",
-      "tamano": 5009,
-      "conservar": true,
-      "url": "archivos/config/voicechat/voicechat-client.properties"
-    },
-    {
-      "ruta": "config/voicechat/voicechat-server.properties",
-      "sha1": "1bb28c74e7717c20713302b212519ad0f2a1fab0",
-      "tamano": 2442,
-      "conservar": true,
-      "url": "archivos/config/voicechat/voicechat-server.properties"
-    },
-    {
       "ruta": "config/wilderwild/block.json5",
       "sha1": "235c27a85074e9005547e917fb0fd30be0869e9e",
       "tamano": 1635,
@@ -2015,6 +1973,16 @@
       "titulo": "Untitled Duck Mod",
       "lado": "ambos",
       "pagina": "https://modrinth.com/mod/untitled-duck-mod"
+    },
+    {
+      "ruta": "mods/voicechat-fabric-1.21.11-2.6.24.jar",
+      "sha1": "5892ae4658614f18ccdc8a9762cebbb83136ae34",
+      "tamano": 5608482,
+      "id": "voicechat",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MLNG868g/voicechat-fabric-1.21.11-2.6.24.jar",
+      "titulo": "Simple Voice Chat",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/simple-voice-chat"
     },
     {
       "ruta": "mods/WilderWild-4.2.4-mc1.21.11.jar",
