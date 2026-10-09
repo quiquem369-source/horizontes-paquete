@@ -1,11 +1,11 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1604",
-  "fecha": "2026-10-09T22:04:54.750Z",
+  "version": "2026.10.09-1611",
+  "fecha": "2026-10-09T22:11:03.927Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
-  "notas": "Nuevo: Hardcore Revival. Al morir quedas derribado un rato y otro jugador puede revivirte manteniendo clic derecho sobre ti. Se quitó Indomitable Mod, que Aternos no permite en el servidor.",
+  "notas": "Nuevo sistema para revivir: al «morir» quedas con medio corazón y te arrastras. Un compañero te levanta manteniendo clic derecho con la mano vacía; tu nombre pasa de amarillo a rojo y, si nadie llega en 45 segundos, mueres. Funciona desde el servidor, no hay que instalar nada. Se quitó Indomitable Mod, que Aternos no permite.",
   "servidor": {
     "nombre": "Horizontes",
     "direccion": "Horizonte5.aternos.me"
@@ -1535,15 +1535,6 @@
       "pagina": "https://modrinth.com/mod/autohud"
     },
     {
-      "ruta": "mods/balm-fabric-1.21.11-21.11.9.1.jar",
-      "sha1": "5bb8ca8fb46953da5777c1b3c12af5b397b46b48",
-      "tamano": 873058,
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/5POKgjJn/balm-fabric-1.21.11-21.11.9.1.jar",
-      "titulo": "Balm",
-      "lado": "ambos",
-      "pagina": "https://modrinth.com/mod/balm"
-    },
-    {
       "ruta": "mods/blooming-biosphere-v1.1.12.jar",
       "sha1": "eed6a4df9b1d531f5895724a8e9380d457a08bb4",
       "tamano": 670732,
@@ -1731,15 +1722,6 @@
       "titulo": "Player Corpse",
       "lado": "ambos",
       "pagina": "https://modrinth.com/mod/player-corpse"
-    },
-    {
-      "ruta": "mods/hardcorerevival-fabric-1.21.11-21.11.5.jar",
-      "sha1": "2a40fd0cf06e4b0909ef853a4c687d56749cc078",
-      "tamano": 245799,
-      "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/wPrX0GfG/hardcorerevival-fabric-1.21.11-21.11.5.jar",
-      "titulo": "Hardcore Revival",
-      "lado": "ambos",
-      "pagina": "https://modrinth.com/mod/hardcore-revival"
     },
     {
       "ruta": "mods/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
