@@ -1,11 +1,11 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1600",
-  "fecha": "2026-10-09T22:00:00.691Z",
+  "version": "2026.10.09-1604",
+  "fecha": "2026-10-09T22:04:54.750Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
-  "notas": "Primera versión del paquete: los 55 mods que ya usabas en la 1.21.11, con Complementary Reimagined y tu configuración de Distant Horizons, Sodium y compañía.",
+  "notas": "Nuevo: Hardcore Revival. Al morir quedas derribado un rato y otro jugador puede revivirte manteniendo clic derecho sobre ti. Se quitó Indomitable Mod, que Aternos no permite en el servidor.",
   "servidor": {
     "nombre": "Horizontes",
     "direccion": "Horizonte5.aternos.me"
@@ -1535,6 +1535,15 @@
       "pagina": "https://modrinth.com/mod/autohud"
     },
     {
+      "ruta": "mods/balm-fabric-1.21.11-21.11.9.1.jar",
+      "sha1": "5bb8ca8fb46953da5777c1b3c12af5b397b46b48",
+      "tamano": 873058,
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/5POKgjJn/balm-fabric-1.21.11-21.11.9.1.jar",
+      "titulo": "Balm",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/balm"
+    },
+    {
       "ruta": "mods/blooming-biosphere-v1.1.12.jar",
       "sha1": "eed6a4df9b1d531f5895724a8e9380d457a08bb4",
       "tamano": 670732,
@@ -1724,6 +1733,15 @@
       "pagina": "https://modrinth.com/mod/player-corpse"
     },
     {
+      "ruta": "mods/hardcorerevival-fabric-1.21.11-21.11.5.jar",
+      "sha1": "2a40fd0cf06e4b0909ef853a4c687d56749cc078",
+      "tamano": 245799,
+      "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/wPrX0GfG/hardcorerevival-fabric-1.21.11-21.11.5.jar",
+      "titulo": "Hardcore Revival",
+      "lado": "ambos",
+      "pagina": "https://modrinth.com/mod/hardcore-revival"
+    },
+    {
       "ruta": "mods/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
       "sha1": "43e451464f979bdf9ff4ac288b358a2f91b79ed8",
       "tamano": 302709,
@@ -1731,12 +1749,6 @@
       "titulo": "ImmediatelyFast",
       "lado": "cliente",
       "pagina": "https://modrinth.com/mod/immediatelyfast"
-    },
-    {
-      "ruta": "mods/indomitablemod-1.0.0.jar",
-      "sha1": "56d069c7b8ce089e45a1aed8aa97528f6e4af956",
-      "tamano": 40575,
-      "url": "archivos/mods/indomitablemod-1.0.0.jar"
     },
     {
       "ruta": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
