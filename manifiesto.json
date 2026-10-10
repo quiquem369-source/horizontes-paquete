@@ -1,8 +1,8 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1826",
-  "fecha": "2026-10-10T00:26:32.492Z",
+  "version": "2026.10.09-1832",
+  "fecha": "2026-10-10T00:32:19.754Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
@@ -1753,6 +1753,16 @@
       "titulo": "Just Enough Items (JEI)",
       "lado": "ambos",
       "pagina": "https://modrinth.com/mod/jei"
+    },
+    {
+      "ruta": "mods/ji-afk-cinematic-1.21.11-2.3.1.jar",
+      "sha1": "3166c10bafb144ff8ba9b263cbb736316e8d22c4",
+      "tamano": 255366,
+      "id": "ji-afk-cinematic",
+      "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/ViJLxeFd/ji-afk-cinematic-1.21.11-2.3.1.jar",
+      "titulo": "Ji AFK Cinematic",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/ji-afk-cinematic"
     },
     {
       "ruta": "mods/kirin-1.21.5+1.21.11.jar",
