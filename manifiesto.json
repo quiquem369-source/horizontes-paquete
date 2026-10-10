@@ -1,8 +1,8 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1824",
-  "fecha": "2026-10-10T00:24:31.202Z",
+  "version": "2026.10.09-1826",
+  "fecha": "2026-10-10T00:26:32.492Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
@@ -1473,6 +1473,16 @@
       "tamano": 708,
       "conservar": true,
       "url": "archivos/config/zoomify.json"
+    },
+    {
+      "ruta": "mods/a_good_place-fabric-1.21.11-1.3.2.jar",
+      "sha1": "83413a7647bba22068173e1fc9a623746cb1365e",
+      "tamano": 92635,
+      "id": "a_good_place",
+      "url": "https://cdn.modrinth.com/data/BwPeriwJ/versions/CLfXYPR2/a_good_place-fabric-1.21.11-1.3.2.jar",
+      "titulo": "A Good Place",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/a-good-place"
     },
     {
       "ruta": "mods/architectury-19.0.1-fabric.jar",
