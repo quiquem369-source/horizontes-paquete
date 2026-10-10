@@ -1,8 +1,8 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1822",
-  "fecha": "2026-10-10T00:22:39.206Z",
+  "version": "2026.10.09-1824",
+  "fecha": "2026-10-10T00:24:31.202Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
@@ -1533,6 +1533,16 @@
       "titulo": "Chunky",
       "lado": "ambos",
       "pagina": "https://modrinth.com/mod/chunky"
+    },
+    {
+      "ruta": "mods/cinematic_respawn-1.21.11-fabric-1.4.0.jar",
+      "sha1": "7ca8b7378d1200d3059ff7509024033240208215",
+      "tamano": 25751,
+      "id": "cinematic_respawn",
+      "url": "https://cdn.modrinth.com/data/CFJWaa89/versions/wpOeGSRT/cinematic_respawn-1.21.11-fabric-1.4.0.jar",
+      "titulo": "Cinematic Respawn",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/mod/cinematic-respawn"
     },
     {
       "ruta": "mods/cloth-config-21.11.153-fabric.jar",
