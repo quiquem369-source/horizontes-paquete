@@ -1,8 +1,8 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1834",
-  "fecha": "2026-10-10T00:34:26.953Z",
+  "version": "2026.10.09-2119",
+  "fecha": "2026-10-10T03:19:11.978Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
@@ -11,13 +11,6 @@
     "direccion": "Horizonte5.aternos.me"
   },
   "archivos": [
-    {
-      "ruta": "config/autohud.json5",
-      "sha1": "acd2acde91c1e82ada7e70663ef89ea65177a290",
-      "tamano": 4230,
-      "conservar": true,
-      "url": "archivos/config/autohud.json5"
-    },
     {
       "ruta": "config/biolith/general.json",
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e",
@@ -1493,16 +1486,6 @@
       "titulo": "Architectury API",
       "lado": "ambos",
       "pagina": "https://modrinth.com/mod/architectury-api"
-    },
-    {
-      "ruta": "mods/autohud-8.11+1.21.11-fabric.jar",
-      "sha1": "2c7e7e2ff392c373d034ee4f4160d15119b56319",
-      "tamano": 376610,
-      "id": "autohud",
-      "url": "https://cdn.modrinth.com/data/temczoTQ/versions/8sEdPebk/autohud-8.11%2B1.21.11-fabric.jar",
-      "titulo": "Auto HUD",
-      "lado": "cliente",
-      "pagina": "https://modrinth.com/mod/autohud"
     },
     {
       "ruta": "mods/blooming-biosphere-v1.1.12.jar",
