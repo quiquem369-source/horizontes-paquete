@@ -1,6 +1,6 @@
 # Mods para el servidor de Aternos
 
-Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1832
+Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-1834
 
 Instálalos en Aternos → Mods con **exactamente** la versión indicada: los mods que
 agregan bloques, mobs o generación de mundo tienen que coincidir con los del launcher.
@@ -52,7 +52,7 @@ agregan bloques, mobs o generación de mundo tienen que coincidir con los del la
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) — versión `3.2.0-b-1.21.11`
 - [Lithium](https://modrinth.com/mod/lithium) — versión `mc1.21.11-0.21.4-fabric`
 
-## Solo en el cliente, no van en Aternos (25)
+## Solo en el cliente, no van en Aternos (26)
 
 - [EMF] Entity Model Features
 - [ETF] Entity Texture Features
@@ -75,6 +75,7 @@ agregan bloques, mobs o generación de mundo tienen que coincidir con los del la
 - Sodium
 - Sodium Extra
 - Sound Physics Remastered
+- Spatial GUI
 - Subtle Effects
 - Xaero's World Map
 - YetAnotherConfigLib (YACL)
