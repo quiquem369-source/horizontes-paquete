@@ -1,8 +1,8 @@
 {
   "formato": 1,
   "nombre": "Horizontes",
-  "version": "2026.10.09-1657",
-  "fecha": "2026-10-09T22:57:14.849Z",
+  "version": "2026.10.09-1822",
+  "fecha": "2026-10-10T00:22:39.206Z",
   "minecraft": "1.21.11",
   "fabric": "0.19.3",
   "notas": "Nuevo: chat de voz por cercanía con Simple Voice Chat. Habla manteniendo Bloq Mayús (o cámbialo a activación por voz con la tecla V). Para hablarse a cualquier distancia, creen un grupo con la tecla G. Para revivir: si te derriban, un compañero te levanta manteniendo clic derecho con la mano vacía antes de 45 segundos.",
@@ -2023,6 +2023,33 @@
       "titulo": "Zoomify (Zoom)",
       "lado": "cliente",
       "pagina": "https://modrinth.com/mod/zoomify"
+    },
+    {
+      "ruta": "resourcepacks/animated-items 1.21.x-26.3 - v1.6.3.zip",
+      "sha1": "e1932eda40baedcab207975679ac161bd0168b9d",
+      "tamano": 1783851,
+      "url": "https://cdn.modrinth.com/data/uBBepXuH/versions/OwMX7WV9/animated-items%201.21.x-26.3%20-%20v1.6.3.zip",
+      "titulo": "Animated Items",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/resourcepack/animated-items"
+    },
+    {
+      "ruta": "resourcepacks/Enchantment Glows v1.12.1.zip",
+      "sha1": "d9251675c9c84f144579ca6076b2ec373124d90a",
+      "tamano": 2126138,
+      "url": "https://cdn.modrinth.com/data/m3tqASqD/versions/uaBnfTpO/Enchantment%20Glows%20v1.12.1.zip",
+      "titulo": "Enchantment Glows",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/resourcepack/enchantment-glows"
+    },
+    {
+      "ruta": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
+      "tamano": 850941,
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+      "titulo": "Fresh Animations",
+      "lado": "cliente",
+      "pagina": "https://modrinth.com/resourcepack/fresh-animations"
     },
     {
       "ruta": "shaderpacks/ComplementaryReimagined_r5.3.zip",
