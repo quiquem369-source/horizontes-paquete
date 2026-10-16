@@ -1,11 +1,11 @@
 # Mods para el servidor de Aternos
 
-Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.09-2119
+Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.15-1931
 
 Instálalos en Aternos → Mods con **exactamente** la versión indicada: los mods que
 agregan bloques, mobs o generación de mundo tienen que coincidir con los del launcher.
 
-## Van en el servidor (30)
+## Van en el servidor (31)
 
 - [Architectury API](https://modrinth.com/mod/architectury-api) — versión `19.0.1+fabric`
 - [Blooming Biosphere](https://modrinth.com/mod/blooming-biosphere) — versión `1.1.12`
@@ -23,6 +23,7 @@ agregan bloques, mobs o generación de mundo tienen que coincidir con los del la
 - [Geckolib](https://modrinth.com/mod/geckolib) — versión `5.4.5`
 - [Geophilic](https://modrinth.com/mod/geophilic) — versión `3.6`
 - [GlitchCore](https://modrinth.com/mod/glitchcore) — versión `21.11.0.4`
+- [Gouge](https://modrinth.com/mod/gouge) — versión `1.6`
 - [Lovely Snails](https://modrinth.com/mod/lovely_snails) — versión `1.2.3+1.21.11`
 - [Nature's Compass](https://modrinth.com/mod/natures-compass) — versión `1.21.11-2.5.0-fabric`
 - [Player Corpse](https://modrinth.com/mod/player-corpse) — versión `1.0.1`
