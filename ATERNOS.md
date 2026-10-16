@@ -1,6 +1,6 @@
 # Mods para el servidor de Aternos
 
-Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.15-1944
+Software: **Fabric** · Minecraft **1.21.11** · Fabric Loader **0.19.3** · paquete 2026.10.15-1949
 
 Instálalos en Aternos → Mods con **exactamente** la versión indicada: los mods que
 agregan bloques, mobs o generación de mundo tienen que coincidir con los del launcher.
